@@ -1,0 +1,10 @@
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\bin\Debug\15253055P.exe.config
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\bin\Debug\15253055P.exe
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\bin\Debug\15253055P.pdb
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\obj\Debug\_15253055P.Properties.Resources.resources
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\obj\Debug\15253055P.csproj.GenerateResource.Cache
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\obj\Debug\15253055P.exe
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\obj\Debug\15253055P.pdb
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\obj\Debug\_15253055P.uyeKaydiOlusturma.resources
+C:\Users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\obj\Debug\_15253055P.anaSayfaForm.resources
+C:\Users\ozans\onedrive\belgeler\visual studio 2015\Projects\15253055P\15253055P\obj\Debug\15253055P.csprojResolveAssemblyReference.cache
